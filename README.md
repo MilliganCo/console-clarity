@@ -1,5 +1,7 @@
 # Superseded prototype
 
+> Archived budgeting UI prototype with synthetic in-memory transactions. See [PUBLICATION.md](PUBLICATION.md) for verification and limits.
+
 This repository is an earlier implementation of the Budget Console UI. The canonical and more complete project is:
 
 https://github.com/MilliganCo/budget-console
